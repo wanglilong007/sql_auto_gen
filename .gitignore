@@ -6,6 +6,13 @@ __pycache__/
 # C extensions
 *.so
 
+GeneratedSqlScript/
+package/
+SqlTemplates/
+test/
+*.xlsx
+*.sql
+
 # Distribution / packaging
 .Python
 env/
